@@ -4,13 +4,13 @@ end
 
 def actor
   actor = {
-    :name => "Dwayne The Rock Johnson"
+    :name => "Dwayne The Rock"
   }
 end
 
 def monopoly
 	monopoly = {
-	  :railroads => {pieces: 4, names: {}, rent_in_dollars: {}}
+	  :railroads => {}
 	}
 
 end
