@@ -14,7 +14,11 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-  	monopoly = {:pieces => 4, :name => {}, :rent_in_dollars => {}}
+  	monopoly = {
+  	  :pieces => 4, 
+  	  :name => {}, 
+  	  :rent_in_dollars => {}
+  	}
 end
 
 def monopoly_with_third_tier
